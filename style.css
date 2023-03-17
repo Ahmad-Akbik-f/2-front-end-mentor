@@ -141,8 +141,8 @@ body{
 }
 @media (max-width:767px) {
     body{
-        display:block;   
-    }   
+        display: block;
+    }
     .parent{
         flex-wrap: wrap;
         align-items: center;
